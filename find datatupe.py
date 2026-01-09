@@ -30,3 +30,7 @@ print(x + z)
 x = "shejal"
 y = "singh"
 print(x + y)
+
+x = "anamika"
+y = "rai"
+print(x + y)
