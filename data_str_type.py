@@ -78,7 +78,7 @@ print(sum(x))
 # print(z)
 # print(x)
 
-name=["shejal,"sakshi"]
+name=["Gungun,"sakshi"]
 print(name)      
 
 
@@ -92,6 +92,7 @@ print(name)
 
 
    
+
 
 
 
